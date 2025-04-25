@@ -7,11 +7,13 @@ Data Analyst and Robotics Engineer
 
 🌍  I'm based in London.
 
-🎓 I have a Master's Degree in Robotics Engineering from the University of Bath
+🎓  I have a Master's Degree in Robotics Engineering from the University of Bath
 
 ✉️  You can contact me at [prahladpmistry@gmail.com](mailto:prahladpmistry@gmail.com)
 
-You can view my [Google Site](https://sites.google.com/view/prahlad/home) here.
+🌐  You can view my [Google Site](https://sites.google.com/view/prahlad/home) here.
+
+💬  I am always open to collaboration on anything related to Maths, Music, Science, Gaming, and Movies!
 
 ### Skills
 
